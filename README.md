@@ -1,13 +1,18 @@
 - 👋 Hi, I’m Sheikh Mohammad Abdullah
-- 👀 I'm a seasoned and highly motivated backend developer based in Skopje, with over 01 years of experience in creating efficient and scalable web solutions. I specialize in 
-     building robust REST APIs and spend the majority of my time working on backend systems. Here’s a little more about me::
-- 🌱With 01 years of life experience, I’ve dedicated over a decade to backend development.
-- 💻 My primary focus is on creating RESTFull services using powerful backend technologies.
-- 🌟 Skilled in designing and optimizing databases, server-side logic, and scalable APIs for high-performance applications.
-- 🔄 Strong expertise in API architecture and ensuring seamless integration across systems.
+- 👀 Energetic and innovative Generative Al Engineer eager to leverage a profound background in Al, specializing in vector d
+     frameworks, and cloud deployments, Aims to apply technical skills and creativity in developing state-of-the-art Al solutio
+     dynamic team setting.
+- 🌱I have 1 years of life experience, I’ve dedicated over a decade to backend development.
+- 💻 My primary focus is on creating AI-powered applications, interactive web tools, and IoT solutions that leverage Machine Learning and Generative AI. Passionate about deploying innovative projects and exploring      emerging AI technologies.
+- 🌟 Skilled in designing and developing AI-powered applications, interactive web tools, and IoT solutions with a focus on machine learning, generative AI, and seamless user experience
+- 🔄 Strong expertise AI & Machine Learning Engineer | Generative AI Enthusiast | Web Applications Developer | IoT Innovator.
 - 🌐 I am passionate about continuous learning and always keeping up-to-date with the latest backend technologies and best
       practices.
-- 🤝 Open to collaborating on backend-focused projects, mentoring, and contributing to the tech community.
+- 🤝 Open to collaborating on AI, Machine Learning, Generative AI projects, interactive web applications, and IoT solutions.
+- 🏆 Achievements
+     1st Rank in IoT – College Event, RGPV, 2022
+     Offer Letter at JustDial.com – Secured through campus placement, 2024
+     Tech Research Internship at ISRO – Selected for a research-focused program, 2024
 <!---
 Abdullah5590/Abdullah5590 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
